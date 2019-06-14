@@ -1,0 +1,1 @@
+json.partial! "shoe.json.jbuilder", shoe: @shoe
